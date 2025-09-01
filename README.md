@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1F9AFE&vCenter=true&width=435&lines=Hey+I'm+Hanafe+Mira!;Full-stack+Dev+%7C+ML+Researcher+%7C+Physics+Lover;Let's+Build+Impactful+Tech+Together!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1F9AFE&vCenter=true&width=435&lines=Hey+I'm+Hanafe+Mira!;Full-stack+Dev+%7C+ML+Researcher+%7C+Physics+Lover" alt="Typing SVG" />
 
 ---
 
