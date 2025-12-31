@@ -48,4 +48,4 @@ TypeScript-first · Type safety by default · Modular design for longevity
 
 ---
 
-**Connect:** [LinkedIn](https://linkedin.com/in/hanafemira) · [Portfolio](https://self1am.github.io/HanafeMira) · miraahanafee@gmail.com
+**Connect:** [LinkedIn](https://linkedin.com/in/hanafe-mira-822096237) · [Portfolio](https://self1am.github.io/HanafeMira) · miraahanafee@gmail.com
